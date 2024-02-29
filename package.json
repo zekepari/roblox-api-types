@@ -1,10 +1,11 @@
 {
   "name": "roblox-api-types",
-  "version": "0.0.2",
+  "version": "0.0.21",
   "description": "Library of Roblox API typings.",
   "author": "Zeke Pari",
   "license": "ISC",
   "types": "index.ts",
+  "keywords": ["roblox", "api", "types", "typescript"],
   "repository": {
     "type": "git",
     "url": "https://github.com/zekepari/roblox-api-types"
