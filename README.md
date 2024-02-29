@@ -12,3 +12,6 @@ This package only works with Typescript/ES Modules. Below is an example.
 ```ts
 import { RobloxGroupsApiGroupRoleResponse } from 'roblox-api-types';
 ```
+
+## Contribution
+Feel free to contribute to this package. I am quick to accept.
