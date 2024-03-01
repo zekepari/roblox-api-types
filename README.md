@@ -10,7 +10,7 @@ npm i roblox-api-types
 ## Usage
 This package only works with Typescript/ES Modules. Below is an example.
 ```ts
-import { RobloxGroupsApiGroupRoleResponse } from 'roblox-api-types';
+import { GroupResponseV2 } from 'roblox-api-types';
 ```
 
 ## Contribution
